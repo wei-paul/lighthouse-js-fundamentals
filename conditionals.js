@@ -36,8 +36,6 @@ if (age < 13){
 }
 
 
-
- 
 var x = 1;
 
 while (x <=20) {
